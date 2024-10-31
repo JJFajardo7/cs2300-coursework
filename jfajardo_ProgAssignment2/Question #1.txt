@@ -1,0 +1,2 @@
+Question #1:
+Because the cipher matrix is AB which means since they are being multiplied they have to sort of match meaning the number of columns of A must match the number of rows of B
